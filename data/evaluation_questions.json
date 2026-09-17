@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "question": "What are the health benefits of safe sanitation?",
+        "expected": "answerable",
+        "key_facts": [
+            "improvements in health",
+            "infectious diseases",
+            "nutrition",
+            "well-being"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What diseases are associated with poor sanitation?",
+        "expected": "answerable",
+        "key_facts": [
+            "diarrhoea",
+            "cholera",
+            "dysentery",
+            "typhoid"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "How does sanitation affect mental and social well-being?",
+        "expected": "answerable",
+        "key_facts": [
+            "privacy",
+            "anxiety",
+            "safety",
+            "dignity"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What role does adequate water supply and hygiene play in achieving health benefits from sanitation?",
+        "expected": "answerable",
+        "key_facts": [
+            "maximum health benefits",
+            "adequate water supply",
+            "good hygiene"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What are some health consequences of unsafe sanitation?",
+        "expected": "answerable",
+        "key_facts": [
+            "diarrhoea",
+            "stunting",
+            "anaemia",
+            "anxiety"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Why is safe sanitation considered important for human health?",
+        "expected": "answerable",
+        "key_facts": [
+            "preventing infection",
+            "well-being",
+            "disease"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "What is the relationship between sanitation and nutrition?",
+        "expected": "answerable",
+        "key_facts": [
+            "nutrition",
+            "undernutrition"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How can poor sanitation affect children?",
+        "expected": "answerable",
+        "key_facts": [
+            "diarrhoea",
+            "stunting",
+            "cognitive function"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "What problems can open defecation cause?",
+        "expected": "answerable",
+        "key_facts": [
+            "anxiety",
+            "shame",
+            "embarrassment",
+            "infection"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What aspects of personal well-being are associated with sanitation?",
+        "expected": "answerable",
+        "key_facts": [
+            "privacy",
+            "shame",
+            "anxiety",
+            "dignity"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What is the definition of sanitation according to the document?",
+        "expected": "answerable",
+        "key_facts": [
+            "safe disposal",
+            "human urine",
+            "faeces"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "What health benefits can sanitation provide when combined with good hygiene behaviours?",
+        "expected": "answerable",
+        "key_facts": [
+            "maximum health benefits",
+            "good hygiene"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What is the population of Japan?",
+        "expected": "unanswerable",
+        "key_facts": []
+    },
+    {
+        "id": 14,
+        "question": "What is the capital city of France?",
+        "expected": "unanswerable",
+        "key_facts": []
+    },
+    {
+        "id": 15,
+        "question": "Who won the FIFA World Cup in 2022?",
+        "expected": "unanswerable",
+        "key_facts": []
+    }
+]
